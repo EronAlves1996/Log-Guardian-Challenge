@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "Welcome, Agent. LogGuard Inc. needs you.",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "start": "tsx src/index.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/EronAlves1996/Log-Guardian-Challenge.git"
